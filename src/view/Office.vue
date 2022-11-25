@@ -148,6 +148,7 @@ export default {
 	#officeonline-wrapper {
 		width: 100vw;
 		height: calc(100vh - 50px);
+		top: 5px;
 		left: 0;
 		position: absolute;
 		z-index: 100000;
